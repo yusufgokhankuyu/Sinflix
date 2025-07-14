@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699712138780",
+    "project_id": "sinflix-19d20",
+    "storage_bucket": "sinflix-19d20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699712138780:android:e6ea4d9f6a0236478db9d9",
+        "android_client_info": {
+          "package_name": "com.sinflix.app.sinflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpEe44u_t-rsfvUJMmKsnc7dgQpVOnPX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
