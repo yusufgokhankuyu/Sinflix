@@ -69,7 +69,7 @@ SINFLIX, Flutter ile geliştirilmiş modern bir film keşfetme ve favorilere ekl
 ## 🛠️ Kurulum
 
 ```bash
-git clone https://github.com/kullaniciadi/sinflix.git
+git clone https://github.com/yusufgokhankuyu/Sinflix.git
 cd sinflix
 flutter pub get
 flutter run
